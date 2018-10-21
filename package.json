@@ -1,5 +1,5 @@
 {
-  "name": "prosemirror-compress",
+  "name": "prosemirror-compress-pubpub",
   "version": "0.0.3",
   "description": "ProseMirror compression",
   "main": "dist/index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xylk/prosemirror-compress.git"
+    "url": "git+https://github.com/pubpub/prosemirror-compress-pubpub.git"
   },
-  "author": "xylk",
+  "author": "PubPub",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xylk/prosemirror-compress/issues"
+    "url": "https://github.com/pubpub/prosemirror-compress-pubpub/issues"
   },
-  "homepage": "https://github.com/xylk/prosemirror-compress#readme",
+  "homepage": "https://github.com/pubpub/prosemirror-compress-pubpub#readme",
   "devDependencies": {
     "buble": "^0.15.2",
     "rollup": "^0.41.4"

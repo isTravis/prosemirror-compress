@@ -1,4 +1,11 @@
-# prosemirror-compress
+# prosemirror-compress-pubpub
+
+This repo has been forked from [xylk/prosemirror-compress](https://github.com/xylk/prosemirror-compress) to add some pubpub-editor specific changes and bug fixes.
+
+## Installation
+```
+npm install prosemirror-compress-pubpub
+```
 
 ## documentation
 
